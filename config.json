@@ -5,6 +5,6 @@
 	"questionnaire_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-kccq_fr.json",
 	"pryv_service_info_url": "https://reg.heartkinetics.pryv.io/service/info",
 	"record_sample_rate": 100,
-	"record_duration": 120,
+	"record_duration": 60,
 	"record_quality_threshold": 70
 }
