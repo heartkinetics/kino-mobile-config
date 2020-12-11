@@ -1,14 +1,27 @@
 {
 	"privacy_policy_fr_url": "https://heartkinetics.github.io/okcardio-content/text/privacy_policy_fr.txt",
+	"privacy_policy_en_url": "https://heartkinetics.github.io/okcardio-content/text/privacy_policy_en.txt",
+	"privacy_policy_nl_url": "https://heartkinetics.github.io/okcardio-content/text/privacy_policy_nl.txt",
 	"license_agreement_fr_url": "https://heartkinetics.github.io/okcardio-content/text/license_agreement_fr.txt",
+	"license_agreement_en_url": "https://heartkinetics.github.io/okcardio-content/text/license_agreement_en.txt",
+	"license_agreement_nl_url": "https://heartkinetics.github.io/okcardio-content/text/license_agreement_nl.txt",
 	"informed_consent_fr_url": "https://heartkinetics.github.io/okcardio-content/text/informed_consent_fr.txt",
 	"introduction_fr_url": "https://heartkinetics.github.io/okcardio-content/text/introduction_fr.txt",
-	"record_audio_url": "https://heartkinetics.github.io/okcardio-content/audio/8BPM.wav",
-	"tutorial_video_url": "https://heartkinetics.github.io/okcardio-content/video/tutorial.mp4",
-	"questionnaire_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-kccq_fr.json",
+	"introduction_en_url": "https://heartkinetics.github.io/okcardio-content/text/introduction_en.txt",
+	"introduction_nl_url": "https://heartkinetics.github.io/okcardio-content/text/introduction_nl.txt",
+	"tutorial_video_fr_url": "https://heartkinetics.github.io/okcardio-content/video/tutorial_fr.mp4",
+	"tutorial_video_en_url": "https://heartkinetics.github.io/okcardio-content/video/tutorial_en.mp4",
+	"tutorial_video_nl_url": "https://heartkinetics.github.io/okcardio-content/video/tutorial_nl.mp4",
+	"questionnaire_fr_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-kccq_fr.json",
+	"questionnaire_nl_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-kccq_nl.json",
+	"questionnaire_en_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-mlhfq_en.json",
 	"pryv_service_info_url": "https://reg.heartkinetics.pryv.io/service/info",
+	"record_audio_url": "https://heartkinetics.github.io/okcardio-content/audio/8BPM.wav",
 	"record_sample_rate": 100,
 	"record_duration": 60,
 	"record_quality_threshold": 70,
 	"record_delay": 2
+	"about_en_url": "https://heartkinetics.github.io/okcardio-content/text/about_en.txt"
+	"about_fr_url": "https://heartkinetics.github.io/okcardio-content/text/about_fr.txt"
+	"about_nl_url": "https://heartkinetics.github.io/okcardio-content/text/about_nl.txt"
 }
