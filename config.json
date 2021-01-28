@@ -14,7 +14,7 @@
 	"tutorial_video_nl_url": "https://heartkinetics.github.io/okcardio-content/video/tutorial_nl.mp4",
 	"questionnaire_fr_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-kccq_fr.json",
 	"questionnaire_nl_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-kccq_nl.json",
-	"questionnaire_en_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-kccq_fr.json",
+	"questionnaire_en_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-kccq_en.json",
 	"pryv_service_info_url": "https://reg.heartkinetics.pryv.io/service/info",
 	"record_audio_url": "https://heartkinetics.github.io/okcardio-content/audio/8BPM.wav",
 	"record_sample_rate": 100,
