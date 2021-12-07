@@ -25,6 +25,9 @@
 	"about_en_url": "https://heartkinetics.github.io/okcardio-content/text/about_en.txt",
 	"about_fr_url": "https://heartkinetics.github.io/okcardio-content/text/about_fr.txt",
 	"about_nl_url": "https://heartkinetics.github.io/okcardio-content/text/about_nl.txt",
+	"warning_en_url": "https://heartkinetics.github.io/okcardio-content/text/warning_en.txt",
+	"warning_fr_url": "https://heartkinetics.github.io/okcardio-content/text/warning_fr.txt",
+	"warning_nl_url": "https://heartkinetics.github.io/okcardio-content/text/warning_nl.txt",
 	"pryv_public_endpoint": "https://public.heartkinetics.pryv.io",
 	"pryv_public_token": "OKCARDIO",
 	"terms_version": "1.O.O"
