@@ -22,6 +22,7 @@
 	"record_duration": 30,
 	"record_quality_threshold": 70,
 	"record_delay": 2,
+	"max_demo_records": 10,
 	"about_en_url": "https://heartkinetics.github.io/okcardio-content/text/about_en.txt",
 	"about_fr_url": "https://heartkinetics.github.io/okcardio-content/text/about_fr.txt",
 	"about_nl_url": "https://heartkinetics.github.io/okcardio-content/text/about_nl.txt",
