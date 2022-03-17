@@ -20,6 +20,7 @@
 	"questionnaire_url": "https://heartkinetics.github.io/okcardio-content/questionnaire/us-kccq_fr.json",
 	"pryv_service_info_url": "https://reg.pryv.heartkinetics.io/service/info",
 	"record_audio_url": "https://heartkinetics.github.io/okcardio-content/audio/8BPM.wav",
+	"record_audio_end_url": "https://heartkinetics.github.io/okcardio-content/audio/10s.wav",
 	"record_sample_rate": 100,
 	"record_duration": 180,
 	"record_quality_threshold": 70,
