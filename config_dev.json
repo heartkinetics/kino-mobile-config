@@ -34,5 +34,6 @@
 	"warning_nl_url": "https://heartkinetics.github.io/okcardio-content/text/warning_nl.txt",
 	"pryv_public_endpoint": "https://public.heartkinetics.pryv.io",
 	"pryv_public_token": "OKCARDIO",
-	"terms_version": "1.O.O"
+	"terms_version": "1.O.O",
+	"last_app_version": "1.0.10"
 }
